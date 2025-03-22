@@ -1,9 +1,9 @@
 <?php
 
-namespace kirillsher\calculator;
+namespace Oldsool\calculator;
 
-use kirillsher\calculator\Database;
-use kirillsher\calculator\Game;
+use Oldsool\calculator\Database;
+use Oldsool\calculator\Game;
 
 class GameController
 {

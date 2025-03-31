@@ -10,7 +10,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/KirillSher/PHP_SHerstnyov_KI.git
+git clone https://github.com/Oldsool/PHP_Tazin_AN.git
+
 ```
 
 ### 2. Переключение на нужную ветку
